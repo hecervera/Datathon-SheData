@@ -49,21 +49,21 @@ Durante el desarrollo del proyecto se obtuvieron los siguientes productos:
 - README Documentado: archivo que sistematiza el trabajo realizado, incluyendo la descripción del reto, hipótesis, metodología, pasos ejecutados y productos entregables.
 
 # 📂 Estructura del Repositorio
--DATATHON-SHEDATA.pbix                                 # Dashboard interactivo en Power BI
--Datathon-SheData.ipynb                                # Jupyter Notebook con la limpieza, análisis descriptivo, modelo predictivo y gráficos asociados.
--ESTABLECIMIENTOS_EDUCATIVOS_COLOMBIA_20250603         # Base de datos cruda
--README.md                                             # Este archivo
--SheData_Logo                                          # Archivo del logo del grupo 
--SheData_TedTalk                                       # Archivo con presentación final
+- DATATHON-SHEDATA.pbix                                 # Dashboard interactivo en Power BI
+- Datathon-SheData.ipynb                                # Jupyter Notebook con la limpieza, análisis descriptivo, modelo predictivo y gráficos asociados.
+- ESTABLECIMIENTOS_EDUCATIVOS_COLOMBIA_20250603         # Base de datos cruda
+- README.md                                             # Este archivo
+- SheData_Logo                                          # Archivo del logo del grupo 
+- SheData_TedTalk                                       # Archivo con presentación final
 
 # 🛠 Herramientas Utilizadas
--Python (Pandas, Numpy, Sklearn, Matplotlib, Seaborn)
--Trello
--Jupyter Notebook
--GitHub
--Power BI
+- Python (Pandas, Numpy, Sklearn, Matplotlib, Seaborn)
+- Trello
+- Jupyter Notebook
+- GitHub
+- Power BI
 Otras:
--Google Slides
--PhotoShop
--ChatGPT
--Gemini
+- Google Slides
+- PhotoShop
+- ChatGPT
+- Gemini
