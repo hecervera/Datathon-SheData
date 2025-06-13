@@ -62,7 +62,7 @@ Durante el desarrollo del proyecto se obtuvieron los siguientes productos:
 - Jupyter Notebook
 - GitHub
 - Power BI
-        - Otras:
+   - Otras:
 - Google Slides
 - PhotoShop
 - ChatGPT
