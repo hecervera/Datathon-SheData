@@ -1,3 +1,5 @@
+Realizado por: Ivana Machuca, Carolina Molina, Elsa Marín, Helen Cervera Y Yurle Araujo.
+
 # 📌 Descripción del Reto
 Este proyecto corresponde a una propuesta de análisis de datos educativos en el contexto colombiano. Utiliza un enfoque de ciencia de datos para explorar si existen diferencias en la proporción de escuelas con atención a estudiantes con discapacidad según la ubicación geográfica de los establecimientos educativos (zonas rurales vs. urbanas).
 
